@@ -11,6 +11,7 @@ body {
 .page_wrap {
   width: 80%;
   margin: 0 auto;
+  background-color: #fefaeb;
 }
 
 header {
@@ -34,11 +35,11 @@ header {
   padding: 15px 0;
 }
 
-main,
+/* main,
 nav,
 aside {
   background-color: #fefaeb;
-}
+} */
 
 .coffee_title,
 .menu_title {
